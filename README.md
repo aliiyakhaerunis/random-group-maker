@@ -1,4 +1,4 @@
-# Random Group Generator
+# Random Group Maker Generator
 
 Repositori ini berisi implementasi **aplikasi pembuat grup acak** yang dibuat sebagai proyek akhir mata kuliah *Matematika Diskrit*. Aplikasi ini membantu membagi sekumpulan nama (misalnya daftar mahasiswa dalam satu kelas) ke dalam beberapa kelompok secara acak.
 
